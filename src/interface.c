@@ -111,7 +111,7 @@ void F77_SUB(prline)(double *a, double sl[]) {
 	    *a, sl[0], sl[1]);
 }
 
-void F77_SUB(prconv)() {
+void F77_SUB(prconv)(void) {
     Rprintf(" Optimization has converged\n");
 }
 

@@ -2,5 +2,5 @@
 export(ucminf)
 
 # Load shared objects
-useDynLib(ucminf, mfopt)
+useDynLib(ucminf, mfopt, .registration = TRUE, .fixes = "C_")
 
