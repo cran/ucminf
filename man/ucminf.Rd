@@ -172,13 +172,16 @@ ucminf(par, fn, gr = NULL, \dots, control = list(), hessian=0)
 \references{
 
   Nielsen, H. B. (2000) \sQuote{UCMINF - An Algorithm For Unconstrained,
-  Nonlinear Optimization}, Report IMM-REP-2000-18,
+  Nonlinear Optimization}, Report IMM-REP-2000-19,
   Department of Mathematical Modelling, Technical University of
-  Denmark. \url{http://orbit.dtu.dk/recid/200975}.
+  Denmark.
+  \url{http://www.imm.dtu.dk/documents/ftp/tr00/tr19_00.pdf}
 
-  The original Fortran
-  source code can be found at
-  \url{http://www2.imm.dtu.dk/projects/hbn_software/ucminf.f}. The code has been
+  The original Fortran source code was found at
+  \code{http://www2.imm.dtu.dk/projects/hbn_software/ucminf.f}. (That URL
+  is no longer available but archived at
+   \url{https://web.archive.org/web/20050418082240/http://www.imm.dtu.dk/~hbn/Software/ucminf.f} -- Dr Nielsen passed away in 2015). 
+  The code has been
   slightly modified in this package to be suitable for use with \R.
 
   The general structure of the implementation in \R is based on the
