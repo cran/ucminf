@@ -1,6 +1,6 @@
 Package: ucminf
 Title: General-Purpose Unconstrained Non-Linear Optimization
-Version: 1.2.0
+Version: 1.2.1
 Authors@R: c(
     person("K Hervé", "Dakpo", email = "k-herve.dakpo@inrae.fr", 
     role = c("ctb", "cre")),
@@ -20,10 +20,10 @@ RoxygenNote: 7.2.3
 Depends: R (>= 3.5.0)
 Suggests: numDeriv
 NeedsCompilation: yes
-Packaged: 2023-05-26 11:23:33 UTC; Dakpo
+Packaged: 2023-12-11 12:17:24 UTC; Dakpo
 Author: K Hervé Dakpo [ctb, cre],
   Hans Bruun Nielsen [aut],
   Stig Bousgaard Mortensen [aut]
 Maintainer: K Hervé Dakpo <k-herve.dakpo@inrae.fr>
 Repository: CRAN
-Date/Publication: 2023-05-29 00:10:02 UTC
+Date/Publication: 2023-12-13 18:20:02 UTC
