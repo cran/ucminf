@@ -1,12 +1,12 @@
-e6ab7a4fdfa95a2ff1968007d6ad14ce *DESCRIPTION
+dac5808db9aebe1e86e88892dc86b961 *DESCRIPTION
 7f99dd2a7b136e04419ba23efa97ba90 *NAMESPACE
-5b2d2d40b7a59e89420216c3879186a3 *NEWS.md
-56edc3f7bad68c3d6234d25b3d37250b *R/ucminf-package.R
+93d02a8f84c86895b31f8b8577bd0423 *NEWS.md
+4fe249da938af7fa022dc51997dfdda1 *R/ucminf-package.R
 70232859a288693aae4355afab525ffe *R/ucminf.R
 a26098afc56f53cf9b5e06a8dc7800ce *README.md
-0529c54cfa88a266e514138f6b2f57a4 *man/ucminf-package.Rd
+2d201a6316bc2454ba60358e6949580d *man/ucminf-package.Rd
 b1ccd4ff968b33037be9344af2538e75 *man/ucminf.Rd
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars
-1c0df5573f64d62f2d23c1a1ffc08dc9 *src/fortran.f
+b60c54deae1f5127fe4cd8b87a799bb8 *src/fortran.f
 1f2dd1e47092e0a7331856caf66772c0 *src/init.c
 95f056798071bc1641911635de174164 *src/interface.c
